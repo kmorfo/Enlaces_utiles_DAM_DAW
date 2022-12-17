@@ -63,10 +63,10 @@ Este repositorio se ha creado con el fin ayudar a personas que estén estudiando
 2. Despliegue de aplicaciones web
    *
 3. Desarrollo web en entorno servidor
-   * (PHP 8 Ediciones ENI)[https://www.ediciones-eni.com/libro/php-8-desarrolle-un-sitio-web-dinamico-e-interactivo-9782409033087]
+   * [PHP 8 Ediciones ENI](https://www.ediciones-eni.com/libro/php-8-desarrolle-un-sitio-web-dinamico-e-interactivo-9782409033087)
    * De nuevo el canal de Disco Duro de Roer nos vendrá muy bien en esta asigna.
 4. Desarrollo web en entorno cliente
    El siguiente curso es de pago, pero se puede encontrar fácilmente por 10€ ya sea en su plataforma [DevTalles](https://cursos.devtalles.com/) o en [udemy](https://www.udemy.com/). Sin duda recomiendo este curso y prácticamente cualquiera de este profesor, merece la pena con creces el coste de cada uno de los cursos que tiene.
-   * (JavaScript Moderno: Guía para dominar el lenguaje)[https://cursos.devtalles.com/courses/javascript-moderno]
-   * (Eloquent JavaScript)[https://eloquentjs-es.thedojo.mx/]
-   * (Curso de JAVASCRIPT Desde CERO 0 )[https://www.youtube.com/watch?v=tGtxX5x8pKU&list=PLROIqh_5RZeBAnmi0rqLkyZIAVmT5lZxG]
+   * [JavaScript Moderno: Guía para dominar el lenguaje](https://cursos.devtalles.com/courses/javascript-moderno)
+   * [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx/)
+   * [Curso de JAVASCRIPT Desde CERO 0 ](https://www.youtube.com/watch?v=tGtxX5x8pKU&list=PLROIqh_5RZeBAnmi0rqLkyZIAVmT5lZxG)

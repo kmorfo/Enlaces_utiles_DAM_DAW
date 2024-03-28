@@ -17,22 +17,24 @@ Este repositorio se ha creado con el fin ayudar a personas que estén estudiando
  * Para cursar esta asignatura se utilizo el siguiente libro [Inglés Técnico. 2ª Edición ](https://www.garceta.es/catalogo/libro.php?ISBN=978-84-1622-892-8)
  * Se puede convalidar en distintos casos.
 3. Sistemas de información (SISIN)
- 1. Explotación de sistemas informáticos
-    * [CONVERTIR de DECIMAL a BINARIO](https://www.youtube.com/watch?v=fGu0tM5u4b4)
- 3. Sistemas en red. Direccionamiento IP y servicios de red
-   * [Máscara de red](https://es.wikipedia.org/wiki/M%C3%A1scara_de_red)
-   * [Ejemplo de cálculo de Subredes](https://www.youtube.com/watch?v=lEKR7WtKzDA)
-   * [Subneteo (Tutorial rápido) [Fórmula 2^n]](https://www.youtube.com/watch?v=uhA2Tjs2zh0)
+ * Por temas:
+    1. Explotación de sistemas informáticos
+       * [CONVERTIR de DECIMAL a BINARIO](https://www.youtube.com/watch?v=fGu0tM5u4b4)
+    3. Sistemas en red. Direccionamiento IP y servicios de red
+      * [Máscara de red](https://es.wikipedia.org/wiki/M%C3%A1scara_de_red)
+      * [Ejemplo de cálculo de Subredes](https://www.youtube.com/watch?v=lEKR7WtKzDA)
+      * [Subneteo (Tutorial rápido) [Fórmula 2^n]](https://www.youtube.com/watch?v=uhA2Tjs2zh0)
 4. Lenguaje de marcas
    * [Canal DorianDesings](https://www.youtube.com/@DorianDesings) Con este canal cubrirás con creces toda la parte de desarrollo web.
 5. Programación
    * [Píldoras informáticas JAVA](https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) Este canal contiene vídeos no solo para aprender programación en Java y sacar esta asignatura, sino que también te ayudara en otras asignaturas, como LLMM, acceso a datos, programación de procesos y servicios, diseño de interfaces.
    * [Disco Duro de Roer](https://www.youtube.com/c/DiscoDurodeRoer/videos) Al igual que el canal anterior, en este canal podrás aprender sobre numerosos temas y asigna de estos ciclos, sino que también tiene vídeos resolviendo tareas reales de DAW y DAM.
 6. Entornos de desarrollo
-   3. Diseño y relalización de pruebas
+   * Diseño y relalización de pruebas
       * [JUnit ](https://www.youtube.com/watch?v=EOkoVm3rtNQ&list=PLTd5ehIj0goML37B7s9I9iN2zhJCfxJBC)
-   4. Optimización y documentación
+   * Optimización y documentación
       * [GIT](https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU)
+      * [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES MoureDev](https://www.youtube.com/watch?v=3GymExBkKjE)
 7. Bases de datos
    * [Manual de SQL (Oracle SQL)](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html#)
    * [Gestión de Bases de Datos](https://gestionbasesdatos.readthedocs.io/es/latest/index.html)
@@ -51,6 +53,8 @@ Este repositorio se ha creado con el fin ayudar a personas que estén estudiando
    * [Creación de un modulo en Odoo 13](https://www.youtube.com/watch?v=0PDqeUG3azo)
 3. Programación Multimedia de Dispositivos Móviles (PMDM)
    * [El gran libro Android](https://www.marcombo.com/el-gran-libro-de-android-9ed-9788426733665/)
+   * [Martin Kiperszmid](https://www.youtube.com/@DevKiper)
+   * [AristiDevs](https://www.youtube.com/@AristiDevs)
 4. Acceso a Datos
    * [Acceso a Datos 2ª Edición ](https://www.garceta.es/catalogo/libro.php?ISBN=978-84-1622-860-7&idd=12)
 5. Desarrollo de interfaces
@@ -61,7 +65,7 @@ Este repositorio se ha creado con el fin ayudar a personas que estén estudiando
 1. Diseño de interfaces WEB
    * De nuevo el canal y cursos de DorianDesings son de lo mejor que puedes tener a mano para realizar esta asignatura.
 2. Despliegue de aplicaciones web
-   *
+   * [Pelado Nerd](https://www.youtube.com/@PeladoNerd)
 3. Desarrollo web en entorno servidor
    * [PHP 8 Ediciones ENI](https://www.ediciones-eni.com/libro/php-8-desarrolle-un-sitio-web-dinamico-e-interactivo-9782409033087)
    * De nuevo el canal de Disco Duro de Roer nos vendrá muy bien en esta asigna.
